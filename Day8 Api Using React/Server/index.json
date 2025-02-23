@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Bobby",
+      "email": "bob@gmail.com",
+      "address": "US"
+    },
+    {
+      "id": "3",
+      "name": "Catty",
+      "email": "catty@gmail.com",
+      "address": "UK"
+    },
+    {
+      "id": "1740054417037",
+      "name": "Duvvuru Lokesh Reddy",
+      "email": "loki@gmail.com",
+      "address": "India"
+    }
+  ]
+}
