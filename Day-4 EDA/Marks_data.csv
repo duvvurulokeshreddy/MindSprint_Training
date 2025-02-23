@@ -1,0 +1,1001 @@
+STUDENT_ID,Name,Math,Science,English,Total,Grade
+1,Felice,79,54,63.4,201.3,website
+2,Ruthie,29,24,26.9,15.4,product
+3,Nickie,85,10,51.5,39.6,hub
+4,Paule,91,48,97.9,37.2,standardization
+5,Ruthie,46,71,21.1,114.2,application
+6,Roberta,62,12,15.5,8.6,system engine
+7,Jolie,37,69,73.5,224.4,Universal
+8,Deeann,20,82,47.6,90.5,Cross-platform
+9,Gilda,32,85,5.3,278.6,website
+10,Zacherie,47,24,30.1,236.2,policy
+11,Reta,91,73,35.9,174.1,local area network
+12,Andree,79,85,30.8,71.2,Multi-lateral
+13,Adria,53,75,88.2,8.9,leverage
+14,Nonie,17,90,47.2,111.9,Seamless
+15,Dalton,82,22,15.9,231.4,system-worthy
+16,Osmund,4,50,19.6,208.7,regional
+17,Meryl,50,32,78.9,144.1,Synergistic
+18,Ade,8,43,4.0,273.7,Multi-tiered
+19,Karola,92,38,28.0,171.7,explicit
+20,Gage,40,15,8.8,64.2,installation
+21,Nikolas,82,49,60.3,270.7,Decentralized
+22,Luciana,42,5,73.0,102.8,multi-tasking
+23,Dexter,14,50,67.0,290.0,encoding
+24,Lorry,91,73,82.0,70.8,firmware
+25,Hurlee,84,17,47.1,115.2,interface
+26,Roshelle,52,64,41.3,281.5,Monitored
+27,Fidel,18,1,5.5,102.2,Universal
+28,Lisha,93,95,67.1,69.5,cohesive
+29,Den,46,76,89.6,179.3,zero administration
+30,Cecilla,62,18,12.2,245.8,strategy
+31,Liv,54,82,21.1,49.7,uniform
+32,Ives,65,60,23.4,125.8,Optional
+33,Ky,80,86,80.6,264.8,reciprocal
+34,Noami,78,28,26.9,140.4,executive
+35,Ailis,37,92,23.3,150.3,project
+36,Lissi,70,41,41.5,258.7,Self-enabling
+37,Belle,41,57,52.2,216.0,disintermediate
+38,Sabina,46,10,18.7,99.1,tangible
+39,Harold,86,39,93.1,62.0,application
+40,Clarissa,41,52,37.4,51.7,open system
+41,Lonnard,70,99,58.9,152.6,firmware
+42,Corbet,30,87,2.5,29.8,radical
+43,Ailis,74,49,78.8,220.1,interactive
+44,Duffy,57,12,34.7,234.9,Universal
+45,Karmen,80,62,86.2,143.4,alliance
+46,Margette,25,58,38.1,49.8,collaboration
+47,Wood,69,68,1.3,181.1,Ameliorated
+48,Orville,18,67,23.3,58.9,open system
+49,Shell,57,23,45.2,129.3,Graphic Interface
+50,Amelita,16,62,19.6,131.8,Operative
+51,Mackenzie,89,99,62.1,262.2,didactic
+52,Cathryn,36,98,14.6,257.7,Multi-tiered
+53,Chet,8,20,16.5,31.3,solution-oriented
+54,Diane,25,41,49.8,285.9,Synergistic
+55,Rodolphe,79,32,68.6,19.4,multi-state
+56,Frannie,80,19,81.2,119.3,logistical
+57,Milt,56,33,75.9,209.7,internet solution
+58,Gaylord,38,10,20.8,174.5,complexity
+59,Cherish,37,44,19.0,99.1,Face to face
+60,Neille,69,0,38.4,173.1,asymmetric
+61,Letisha,56,79,89.3,279.5,Enterprise-wide
+62,Abbe,51,28,7.1,227.4,knowledge user
+63,Felike,99,28,89.3,180.2,upward-trending
+64,Merrielle,69,33,15.5,145.2,bifurcated
+65,Fancy,26,98,25.7,279.2,Organic
+66,Rubetta,23,61,65.0,268.0,Vision-oriented
+67,Curtice,53,19,69.5,78.4,framework
+68,Isadora,13,1,64.3,49.0,responsive
+69,Rollo,69,78,16.0,259.6,cohesive
+70,Oona,82,74,51.7,274.1,Persistent
+71,Adriane,50,12,58.6,231.9,bandwidth-monitored
+72,Ameline,41,15,94.3,72.3,Profit-focused
+73,Gwyneth,62,80,36.2,192.8,Expanded
+74,Tana,96,6,3.8,177.5,3rd generation
+75,Bent,53,34,31.6,87.4,moratorium
+76,Noell,46,70,6.6,230.5,methodology
+77,Quintus,1,57,17.3,124.0,Reverse-engineered
+78,Arabel,65,83,19.2,213.3,explicit
+79,Rosabelle,49,5,59.4,155.8,framework
+80,Ruprecht,5,89,7.3,220.5,value-added
+81,Wake,82,11,92.2,285.7,Face to face
+82,Durward,23,60,97.2,8.7,functionalities
+83,Laird,79,62,23.7,209.2,complexity
+84,Kevan,44,41,0.2,24.1,mission-critical
+85,Kimberli,45,76,46.9,118.0,Profound
+86,Delphinia,47,42,69.1,81.0,Sharable
+87,Charmian,56,88,56.4,91.7,responsive
+88,Adelbert,28,3,38.2,241.2,modular
+89,Valdemar,28,72,32.5,99.8,process improvement
+90,Marty,59,92,80.2,282.9,well-modulated
+91,Therine,65,21,59.6,78.0,Enterprise-wide
+92,Karol,89,35,71.0,217.6,architecture
+93,Melodie,54,32,34.7,198.2,asynchronous
+94,Rori,19,81,7.6,71.8,implementation
+95,Belvia,92,98,78.0,175.5,Open-source
+96,Ramsay,51,70,98.1,83.5,Quality-focused
+97,Milty,63,26,92.6,125.7,Centralized
+98,Blane,46,52,74.9,229.8,Extended
+99,Terrijo,82,71,42.8,31.6,analyzer
+100,Cale,2,97,60.0,234.5,Exclusive
+101,Inger,13,76,65.5,118.9,Multi-layered
+102,Yevette,58,35,11.8,132.8,flexibility
+103,Val,20,22,45.5,79.0,Profound
+104,Breena,5,60,13.9,142.1,value-added
+105,Salomone,70,72,17.1,211.6,bi-directional
+106,Dall,30,75,59.0,16.0,Expanded
+107,Ware,19,4,21.5,45.7,optimizing
+108,Benoit,63,74,50.5,17.2,superstructure
+109,Stu,75,74,19.8,56.6,discrete
+110,Tad,43,68,57.2,249.1,encoding
+111,Di,35,79,77.1,145.5,heuristic
+112,Fredericka,90,10,17.8,89.2,didactic
+113,Alyse,33,51,53.3,203.4,framework
+114,Paola,14,91,65.3,113.3,client-driven
+115,Benjamen,21,99,14.8,119.0,model
+116,Corella,55,77,74.9,218.3,Quality-focused
+117,Bunny,28,34,3.6,180.2,Self-enabling
+118,Gilberta,51,90,17.6,19.9,bottom-line
+119,Inga,84,83,90.5,78.0,Universal
+120,Wenda,88,69,94.3,245.8,responsive
+121,Lucine,71,21,70.0,201.6,zero tolerance
+122,Del,84,57,69.1,58.6,Enhanced
+123,Nobie,39,70,84.3,93.3,mobile
+124,Tallie,75,30,0.8,146.0,neutral
+125,Willis,45,50,35.5,91.1,value-added
+126,Riley,81,68,16.0,37.9,budgetary management
+127,Clim,34,40,27.0,157.2,composite
+128,Lem,39,46,39.3,226.4,adapter
+129,Regina,43,88,11.6,9.1,system-worthy
+130,Lissy,27,82,62.4,160.2,bi-directional
+131,Ramon,35,17,69.0,186.8,Fully-configurable
+132,Marney,43,10,46.8,8.4,alliance
+133,Frederick,19,2,29.8,186.5,24/7
+134,Brook,52,33,93.1,49.6,database
+135,Bud,0,53,98.5,163.9,knowledge user
+136,Phillipp,78,51,54.3,122.5,Proactive
+137,Jeralee,23,10,53.5,57.4,systemic
+138,Alla,6,98,54.4,130.6,24 hour
+139,Penny,12,10,48.2,175.1,Multi-layered
+140,Bidget,54,63,78.3,272.8,coherent
+141,Eachelle,89,93,21.1,205.9,pricing structure
+142,Collete,30,21,44.7,293.6,Up-sized
+143,Bordie,23,45,59.9,73.6,customer loyalty
+144,Davon,77,18,75.0,128.6,time-frame
+145,Patrizia,38,30,80.5,183.1,Stand-alone
+146,Taddeusz,34,54,47.1,200.7,real-time
+147,Ronica,77,59,44.3,54.6,modular
+148,Alden,0,80,93.7,138.9,24 hour
+149,Levin,59,27,62.0,172.8,info-mediaries
+150,Nathan,79,26,72.3,153.8,Grass-roots
+151,Ivette,24,11,14.4,151.6,Reverse-engineered
+152,Frances,28,27,20.8,122.4,logistical
+153,Cameron,89,40,46.2,43.2,Grass-roots
+154,Elsie,77,99,49.6,116.1,asynchronous
+155,Vernon,5,55,97.3,229.0,Optional
+156,Tyne,81,22,79.2,138.3,real-time
+157,Othella,16,20,73.9,8.7,Intuitive
+158,Trudey,6,46,64.9,168.9,access
+159,Conroy,1,26,50.0,88.4,Stand-alone
+160,Cynthie,42,23,64.4,177.4,solution-oriented
+161,Kylie,12,9,36.2,0.3,neutral
+162,Morissa,28,71,41.7,252.8,next generation
+163,Analise,79,61,42.1,263.6,data-warehouse
+164,Allsun,38,20,29.2,163.8,pricing structure
+165,Geri,23,54,64.1,49.4,project
+166,Reba,77,8,24.4,40.0,portal
+167,Glendon,4,29,8.4,209.4,Adaptive
+168,Gabriell,16,84,63.2,86.1,Switchable
+169,Issy,86,49,99.7,245.1,zero defect
+170,Etienne,81,86,23.6,136.2,User-friendly
+171,Ellis,87,77,44.3,217.7,Configurable
+172,Leelah,0,28,43.7,70.2,Expanded
+173,Thibaud,80,83,41.8,153.5,5th generation
+174,Goraud,50,30,98.8,19.6,Devolved
+175,Hilarius,8,95,0.9,113.7,Extended
+176,Stella,79,50,50.6,15.5,productivity
+177,Tabby,10,92,99.5,48.9,Upgradable
+178,Marlin,56,67,48.7,40.1,Polarised
+179,Hadleigh,25,45,35.2,207.1,multi-tasking
+180,Waring,57,95,18.6,162.5,Compatible
+181,Ruthy,20,79,5.0,227.0,Customizable
+182,Grenville,58,28,51.5,30.4,extranet
+183,Brand,4,36,76.6,295.9,Balanced
+184,Nichole,64,43,2.9,211.8,local area network
+185,Paxton,63,79,11.4,26.7,Compatible
+186,Kaiser,61,4,52.2,131.0,Customizable
+187,Phebe,32,18,23.9,245.7,contextually-based
+188,Bailie,36,72,87.7,12.3,intangible
+189,Mollee,75,98,95.6,10.5,modular
+190,Onida,8,24,68.8,244.4,Quality-focused
+191,Lucita,87,27,88.6,208.5,foreground
+192,Rawley,87,53,70.3,48.8,dedicated
+193,Hendrika,71,27,36.3,62.9,Organic
+194,Oby,25,10,85.7,178.8,neural-net
+195,Emeline,81,60,9.6,102.4,systematic
+196,Christos,76,46,62.6,253.3,national
+197,Sancho,66,93,17.2,55.8,4th generation
+198,Dotti,78,43,82.4,16.9,leading edge
+199,Yulma,79,65,82.5,43.2,interface
+200,Keir,76,11,94.0,215.1,Programmable
+201,Bart,99,91,13.6,120.1,secured line
+202,Bernice,60,82,73.6,239.5,object-oriented
+203,Had,56,39,95.9,110.1,internet solution
+204,Erny,77,71,39.9,279.4,Devolved
+205,Sayre,80,79,55.2,185.1,neural-net
+206,Skippy,75,65,72.9,211.0,24 hour
+207,Sabrina,56,63,66.7,142.2,leading edge
+208,Thea,43,41,32.7,225.3,Horizontal
+209,Kayley,18,29,13.5,18.1,Networked
+210,Perice,31,36,93.6,115.2,orchestration
+211,Harv,34,29,99.4,234.7,De-engineered
+212,Andie,46,11,0.6,92.0,logistical
+213,Alethea,18,11,60.3,44.0,portal
+214,Corbett,17,65,86.5,140.6,flexibility
+215,Roderick,25,92,81.0,56.6,next generation
+216,Wilbert,4,86,64.8,147.2,next generation
+217,Lynnet,63,21,49.6,1.3,Cross-group
+218,Tallou,49,3,78.6,118.6,neutral
+219,Malinda,57,70,17.4,87.0,toolset
+220,Min,64,43,83.7,161.1,portal
+221,Kimmi,28,56,90.8,265.6,instruction set
+222,Mignonne,4,44,48.4,239.5,De-engineered
+223,Logan,34,6,20.3,122.8,Centralized
+224,Felecia,24,9,11.0,80.5,maximized
+225,Tallia,73,82,66.4,165.7,eco-centric
+226,Harmonia,35,95,35.2,34.5,flexibility
+227,Valentia,14,25,70.6,0.7,Right-sized
+228,Hunt,55,55,85.8,297.9,bifurcated
+229,Patty,21,61,49.9,214.1,support
+230,Marylin,60,39,29.8,79.7,Configurable
+231,Helenelizabeth,44,13,61.0,173.7,User-centric
+232,Lorri,19,6,40.2,148.2,client-server
+233,Freddy,6,80,74.1,253.5,architecture
+234,Aimil,10,30,11.5,210.2,human-resource
+235,Shea,64,36,7.6,61.8,superstructure
+236,Elnore,55,29,5.0,184.3,Up-sized
+237,Bordy,31,76,3.1,241.9,hierarchy
+238,Scarlet,30,48,39.8,102.6,local
+239,Antonin,67,61,98.9,141.5,Adaptive
+240,Siegfried,86,36,20.6,4.0,intranet
+241,Godfree,84,3,27.8,12.1,discrete
+242,Page,0,7,63.5,182.3,Adaptive
+243,Powell,99,49,74.5,197.1,Customizable
+244,Alfy,23,53,51.8,133.2,time-frame
+245,Broddie,97,10,51.2,35.9,benchmark
+246,Siusan,47,68,54.6,182.1,Quality-focused
+247,Wilfrid,78,100,95.9,284.5,array
+248,Thibaud,86,65,73.7,56.6,Digitized
+249,Demetra,46,5,11.6,296.4,Advanced
+250,Reinald,58,69,73.0,233.3,Networked
+251,Arden,44,89,83.8,31.6,capability
+252,Bianka,12,66,89.4,280.5,hybrid
+253,Barny,84,41,78.8,34.1,Reverse-engineered
+254,Bink,9,8,13.8,229.1,support
+255,George,26,41,60.4,67.6,analyzing
+256,Pernell,90,2,6.0,27.7,contextually-based
+257,Tulley,62,10,95.2,43.9,Secured
+258,Durward,86,45,4.6,42.8,Up-sized
+259,Cinnamon,30,88,36.7,119.1,Ergonomic
+260,Edwina,2,63,71.0,288.8,Grass-roots
+261,Sadie,82,58,0.1,220.3,Graphic Interface
+262,Linn,34,61,75.2,106.6,Seamless
+263,Abbot,30,22,46.3,297.6,array
+264,Cirilo,45,77,39.6,7.5,Customer-focused
+265,Jorge,29,19,93.6,100.4,User-friendly
+266,Maurene,13,55,73.8,66.5,info-mediaries
+267,Adey,66,0,43.9,83.2,support
+268,Beltran,87,46,40.9,4.0,extranet
+269,Antin,20,48,66.0,61.9,exuding
+270,Kaine,97,42,78.6,218.0,encompassing
+271,Pris,55,34,85.2,140.4,core
+272,Sandie,45,20,7.8,240.4,Fundamental
+273,Radcliffe,32,65,71.4,99.0,client-server
+274,Abigael,27,13,63.6,29.8,conglomeration
+275,Avram,87,9,47.1,284.9,local area network
+276,Katharyn,0,19,83.1,116.7,Versatile
+277,Isador,71,21,25.9,192.5,background
+278,Rosemarie,8,34,24.9,101.3,multi-state
+279,Armstrong,8,11,95.6,115.2,utilisation
+280,Georgeanna,93,92,66.5,202.8,Managed
+281,Sonnie,26,96,34.3,226.6,task-force
+282,Mersey,79,23,69.8,34.3,Optimized
+283,Moss,79,15,42.0,11.5,algorithm
+284,Etheline,79,92,36.9,25.1,executive
+285,Nickolas,68,6,32.0,146.9,value-added
+286,Leopold,30,57,55.7,202.8,utilisation
+287,Joella,27,85,76.8,248.6,disintermediate
+288,Glenda,40,91,2.5,242.3,Organic
+289,Candi,92,6,22.9,25.4,toolset
+290,Ynes,47,52,96.6,10.3,fault-tolerant
+291,Jacob,63,54,25.3,192.9,Extended
+292,Levey,42,87,84.2,255.3,parallelism
+293,Ken,15,11,32.3,262.7,task-force
+294,Giorgio,86,37,70.3,20.3,Monitored
+295,Brig,51,17,82.3,227.0,Cloned
+296,Eddie,86,87,91.8,115.0,high-level
+297,Julia,24,5,79.6,175.4,matrices
+298,Claudell,48,26,75.0,50.0,Grass-roots
+299,Keriann,83,100,83.8,59.4,website
+300,Hana,55,56,15.5,94.4,conglomeration
+301,Joeann,84,4,66.3,89.1,groupware
+302,Waylin,12,50,66.2,1.5,orchestration
+303,Viki,82,44,90.3,168.0,ability
+304,Mayer,23,66,69.8,76.0,motivating
+305,Shepherd,85,89,65.8,281.9,bifurcated
+306,Barris,77,68,97.3,108.2,encryption
+307,Ardenia,77,67,0.6,248.3,needs-based
+308,Chaunce,26,96,68.3,234.1,portal
+309,Carolina,31,7,9.2,157.3,Organized
+310,Fletch,17,91,76.1,39.9,product
+311,Coraline,38,29,44.5,8.3,secondary
+312,Jackquelin,48,20,35.2,295.5,Customizable
+313,Otto,62,70,15.1,270.0,project
+314,Yvette,19,13,5.3,182.6,empowering
+315,Vida,7,81,64.7,116.8,Cross-platform
+316,Susie,100,48,36.7,262.7,Fully-configurable
+317,Laney,59,88,63.0,264.0,pricing structure
+318,Jessie,66,65,39.8,244.0,Profit-focused
+319,Stirling,15,46,68.8,107.8,Operative
+320,Merrili,86,94,94.2,114.0,Seamless
+321,Templeton,61,68,10.1,43.3,zero administration
+322,Farleigh,94,43,43.0,80.4,analyzing
+323,Antonella,1,14,65.3,270.2,zero administration
+324,Celestine,67,33,15.6,2.4,Balanced
+325,Bradley,26,47,69.2,181.7,Front-line
+326,Hobard,25,6,8.4,213.8,holistic
+327,Sallee,100,6,15.2,122.8,leverage
+328,Jenn,66,98,24.9,118.6,fresh-thinking
+329,Monica,66,3,32.5,11.3,Multi-lateral
+330,Xavier,89,81,72.2,266.5,bi-directional
+331,Guthry,76,49,85.3,161.6,frame
+332,Aimil,39,80,20.4,107.8,24 hour
+333,Kerrill,38,99,26.5,167.4,tangible
+334,Courtnay,47,86,95.9,182.9,Function-based
+335,Jaymee,78,59,70.4,116.5,Assimilated
+336,Patti,97,27,62.6,180.2,budgetary management
+337,Maxwell,72,43,87.8,297.8,Assimilated
+338,Camellia,68,83,85.9,210.5,Vision-oriented
+339,Jaquelyn,30,5,42.5,195.4,Realigned
+340,Beck,67,99,2.2,77.4,intermediate
+341,Ruttger,26,49,8.1,172.8,uniform
+342,Sheba,51,70,12.7,45.1,Total
+343,Indira,100,28,83.1,276.7,Open-source
+344,Hart,22,57,71.3,218.2,Universal
+345,Kimberly,95,83,53.1,20.1,Integrated
+346,Thom,65,31,19.5,61.8,Decentralized
+347,Blakelee,40,71,53.6,51.0,definition
+348,Myrwyn,17,10,48.9,139.4,adapter
+349,Camellia,98,23,76.0,135.8,full-range
+350,Jeremie,16,21,19.7,260.1,Quality-focused
+351,Kippy,23,88,60.9,84.8,multi-state
+352,Griffin,62,70,55.8,219.4,process improvement
+353,Cesaro,0,84,73.4,148.1,tangible
+354,Ivie,13,71,42.7,167.5,hardware
+355,Lenna,93,79,59.8,108.4,Vision-oriented
+356,Garrik,56,99,91.7,212.4,Phased
+357,Grete,94,99,59.4,213.9,protocol
+358,Tawnya,88,13,3.8,85.5,actuating
+359,Babb,56,1,11.5,245.7,database
+360,Pauletta,26,2,40.3,270.7,hierarchy
+361,Trevar,21,37,10.4,158.2,Pre-emptive
+362,Halimeda,59,5,32.7,180.2,transitional
+363,Sydney,49,93,22.9,133.7,orchestration
+364,Massimiliano,58,33,70.3,124.1,responsive
+365,Chaim,51,71,23.2,3.3,User-friendly
+366,Sonia,62,13,81.9,22.4,next generation
+367,Pepi,39,57,43.7,270.8,Enterprise-wide
+368,Leeann,15,39,84.0,269.2,homogeneous
+369,Emiline,46,83,17.6,215.0,emulation
+370,Larine,74,22,45.2,92.5,regional
+371,Livy,8,87,91.6,142.7,empowering
+372,Bette,39,68,27.0,275.8,Phased
+373,Gale,61,100,36.4,207.7,Progressive
+374,Brooks,41,45,74.0,165.3,standardization
+375,Kenton,16,95,49.2,161.6,definition
+376,Shirl,78,95,60.8,41.6,dynamic
+377,Rip,91,33,28.1,214.6,upward-trending
+378,Lauritz,78,69,23.0,177.7,responsive
+379,Torin,58,3,12.0,80.7,web-enabled
+380,Stephanus,53,96,70.9,187.4,Triple-buffered
+381,Lamont,16,25,27.8,58.9,value-added
+382,Portia,82,68,59.1,176.2,Cross-platform
+383,Wenona,8,3,65.4,202.6,architecture
+384,Corny,24,3,25.6,231.8,Programmable
+385,Shelia,72,35,13.3,244.9,Streamlined
+386,Kipp,7,34,25.6,173.5,Adaptive
+387,Seward,24,34,45.1,231.2,product
+388,Ellsworth,70,72,23.5,162.3,web-enabled
+389,Isabelita,94,22,85.9,270.7,local
+390,Willem,30,57,15.7,1.4,Up-sized
+391,Ruttger,53,98,55.3,87.0,Robust
+392,Loretta,10,5,98.5,154.5,knowledge base
+393,Bobby,19,93,30.9,97.2,Up-sized
+394,Estell,43,14,42.3,133.1,info-mediaries
+395,Averill,82,5,55.0,277.9,scalable
+396,Abeu,84,30,98.4,222.9,collaboration
+397,Katine,99,27,71.5,191.0,Intuitive
+398,Remington,1,20,16.1,95.2,throughput
+399,Lorianne,90,41,37.6,6.0,portal
+400,Zach,24,49,68.1,15.7,hardware
+401,Allyson,78,80,70.4,4.0,portal
+402,Dre,37,38,24.6,106.8,function
+403,Olympia,74,17,43.2,293.9,implementation
+404,Lara,1,35,20.3,13.9,concept
+405,Chrysa,4,44,13.6,189.0,project
+406,Sianna,0,18,50.5,8.9,clear-thinking
+407,Maybelle,100,15,10.4,286.7,bandwidth-monitored
+408,Denyse,60,65,80.0,112.5,logistical
+409,Rori,17,100,48.5,226.2,core
+410,Claribel,76,76,92.1,100.4,Multi-tiered
+411,Etty,51,24,41.5,84.6,challenge
+412,Carce,23,14,4.0,208.2,adapter
+413,Korella,73,78,81.6,208.1,actuating
+414,Bourke,5,70,39.6,120.1,motivating
+415,Ramona,89,5,91.1,269.5,Cross-platform
+416,Teri,52,69,62.5,246.7,projection
+417,Pavla,11,83,31.4,238.6,disintermediate
+418,Doyle,1,50,71.5,168.5,composite
+419,Alica,64,7,27.6,128.5,Optional
+420,Barrett,14,21,50.0,98.1,pricing structure
+421,Randi,37,68,76.5,137.4,encryption
+422,Michelle,13,37,74.4,272.1,User-centric
+423,Harlan,38,44,8.0,5.8,tertiary
+424,Sibella,98,69,36.2,234.7,productivity
+425,Tammy,35,80,84.0,272.7,contingency
+426,Jen,43,70,72.6,266.1,didactic
+427,Lorianne,71,41,73.6,220.4,hub
+428,Jerrie,51,8,16.9,127.2,Horizontal
+429,Chas,38,24,68.8,1.4,background
+430,Darnall,8,35,95.7,250.2,analyzing
+431,Humfried,29,43,68.0,292.7,Grass-roots
+432,Karlotte,91,53,28.3,172.5,composite
+433,Bald,51,97,31.8,0.9,24 hour
+434,Beatriz,83,83,80.6,189.1,installation
+435,Sandye,48,51,11.9,33.9,neural-net
+436,Pat,57,45,7.5,44.2,demand-driven
+437,Casie,0,35,92.8,248.4,Mandatory
+438,Tiebold,83,16,75.1,229.0,systemic
+439,Porter,25,89,15.2,231.9,logistical
+440,Gilles,31,8,58.1,300.0,discrete
+441,Venus,36,45,41.9,5.8,alliance
+442,Albie,26,59,19.7,68.9,well-modulated
+443,Thorny,86,27,92.0,259.2,Sharable
+444,Betteann,60,85,64.4,195.9,uniform
+445,Teddy,30,10,22.1,195.2,attitude
+446,Deina,47,90,43.2,127.5,bifurcated
+447,Sherill,68,88,10.1,228.7,Digitized
+448,Drew,7,91,31.1,104.9,architecture
+449,Yanaton,38,91,24.8,291.7,Quality-focused
+450,Lynsey,36,44,8.9,123.5,Universal
+451,Estrella,75,51,29.3,80.8,demand-driven
+452,Tess,22,67,26.8,286.8,throughput
+453,Matthew,58,79,39.9,151.3,4th generation
+454,Yulma,47,56,35.3,114.8,alliance
+455,Justino,100,48,58.9,244.4,forecast
+456,Roxanne,98,66,18.7,69.7,Reactive
+457,Rosaleen,75,59,14.3,285.4,service-desk
+458,Ikey,10,75,53.0,238.9,Compatible
+459,Clifford,48,68,35.2,291.2,Enhanced
+460,Colas,68,64,54.8,290.6,matrix
+461,Ellie,15,88,18.7,121.3,Graphical User Interface
+462,Lacie,89,78,9.5,50.4,Stand-alone
+463,Eleanor,100,25,9.0,248.0,global
+464,Maire,46,71,37.3,102.9,matrix
+465,Janina,93,25,10.3,235.2,encoding
+466,Pamelina,35,90,9.9,269.0,archive
+467,Austen,62,72,36.2,148.4,bottom-line
+468,Corina,34,97,17.6,247.2,real-time
+469,Mame,23,32,33.5,248.3,application
+470,Verena,78,6,78.7,0.8,client-server
+471,Lucine,91,42,79.7,215.4,cohesive
+472,Dodi,34,95,41.9,20.1,logistical
+473,Annetta,13,9,70.0,112.6,local
+474,Phineas,59,65,61.8,170.7,fresh-thinking
+475,Debra,59,32,51.6,252.6,intangible
+476,Karena,53,16,71.2,270.3,Graphic Interface
+477,Jozef,42,47,26.2,229.9,function
+478,Town,60,52,22.2,83.4,global
+479,Angie,83,89,13.6,104.3,incremental
+480,Moise,11,1,87.8,86.4,installation
+481,Iris,40,73,72.4,250.0,complexity
+482,Jayne,61,34,36.9,28.9,Diverse
+483,Jimmie,89,14,31.0,249.2,6th generation
+484,Shayla,8,15,55.7,61.3,solution
+485,Torin,62,70,11.6,55.8,maximized
+486,Bettye,76,35,46.9,57.2,transitional
+487,Kim,90,100,19.3,109.3,4th generation
+488,Lois,6,77,24.1,148.9,Decentralized
+489,Sheila,70,82,35.0,258.3,functionalities
+490,Bianka,69,65,62.4,292.0,motivating
+491,Flo,29,14,27.8,180.7,Programmable
+492,Editha,61,5,72.4,133.0,neutral
+493,Alyosha,15,73,54.8,278.8,cohesive
+494,Channa,64,12,16.8,295.4,matrices
+495,Conney,55,80,66.6,153.6,holistic
+496,Davey,67,94,65.1,151.9,client-server
+497,Britt,6,53,68.1,199.4,Down-sized
+498,Marlow,41,11,49.7,10.4,5th generation
+499,Tera,75,36,25.7,129.2,alliance
+500,Kaylee,50,73,25.5,281.3,high-level
+501,Penny,34,1,27.9,70.1,database
+502,Benni,91,78,4.6,79.9,4th generation
+503,Cornell,77,67,98.3,261.0,service-desk
+504,Marve,80,98,83.8,123.0,tertiary
+505,Dicky,63,74,56.2,209.2,Multi-tiered
+506,Marja,95,38,75.7,294.2,Networked
+507,Anna-diana,12,1,21.8,253.7,Digitized
+508,Daren,0,26,98.1,56.8,Devolved
+509,Jedidiah,30,27,87.9,33.2,Synergized
+510,Mozes,8,1,83.2,299.5,circuit
+511,Bernardine,86,54,16.2,47.0,transitional
+512,Ruggiero,41,11,96.8,156.9,help-desk
+513,Oona,68,89,97.7,122.9,database
+514,Stearn,86,5,32.0,51.2,Ameliorated
+515,Maryjane,31,99,45.0,209.2,Multi-layered
+516,Kristien,98,55,44.9,262.2,Fundamental
+517,Clemente,44,88,16.8,163.5,leading edge
+518,Hynda,92,65,94.7,238.4,interface
+519,Vanya,37,70,62.8,39.0,system-worthy
+520,Sheena,94,18,86.8,284.7,Stand-alone
+521,Artair,67,29,9.7,208.4,Horizontal
+522,Nicolina,88,58,54.7,238.0,Front-line
+523,Padraig,97,84,22.0,186.2,solution-oriented
+524,Darb,44,71,22.4,162.8,Pre-emptive
+525,Eddi,84,98,11.2,5.0,upward-trending
+526,Raffaello,55,31,49.1,271.1,Re-contextualized
+527,Leland,42,31,68.4,249.4,exuding
+528,Babette,54,35,81.0,267.2,Versatile
+529,Tan,82,81,58.6,86.7,Decentralized
+530,Armand,44,71,75.4,127.3,secondary
+531,Hal,79,55,73.6,207.5,Persistent
+532,Penelopa,3,46,99.0,140.9,leading edge
+533,Westleigh,70,7,70.7,104.1,circuit
+534,Torrey,29,78,56.9,259.1,collaboration
+535,Harli,0,29,83.1,168.6,Decentralized
+536,Bernhard,34,8,47.8,29.0,contextually-based
+537,Delmore,4,53,6.7,85.5,initiative
+538,Sigfried,25,53,54.4,236.3,Managed
+539,Willabella,26,95,76.5,205.3,Exclusive
+540,Teddi,87,21,7.0,289.2,cohesive
+541,Anastasia,32,57,50.8,74.8,logistical
+542,Robbi,97,25,56.7,64.7,orchestration
+543,Yardley,32,41,55.7,73.0,Digitized
+544,Xena,24,23,62.5,2.7,toolset
+545,Devora,20,83,98.7,201.0,Distributed
+546,Augustina,84,51,70.8,135.7,context-sensitive
+547,Kellen,3,57,16.7,223.9,Organized
+548,Jameson,1,10,2.8,37.1,function
+549,Caria,86,11,96.5,63.5,encompassing
+550,Brennen,53,68,52.6,49.6,monitoring
+551,Arnuad,54,36,54.6,212.1,structure
+552,Sharai,27,9,41.7,174.4,Extended
+553,Claudia,64,57,21.9,63.2,Visionary
+554,Tanner,29,83,69.2,145.4,software
+555,Candra,28,27,67.1,191.8,internet solution
+556,Ricardo,25,0,90.7,40.4,uniform
+557,Christie,5,4,74.0,159.4,knowledge base
+558,Pippa,71,4,49.0,203.6,pricing structure
+559,Burlie,43,92,43.6,78.8,Reverse-engineered
+560,Hollis,45,26,22.8,284.3,attitude-oriented
+561,Irina,79,20,55.0,23.5,Centralized
+562,Frank,61,14,15.6,187.5,Programmable
+563,Bobby,50,79,50.3,202.7,optimizing
+564,Lorrie,28,28,55.4,281.6,zero defect
+565,Granville,45,88,4.7,237.7,context-sensitive
+566,Cassey,55,73,24.0,164.3,Enterprise-wide
+567,Vivyan,69,1,92.3,44.5,client-driven
+568,Joelie,49,19,39.4,2.5,Persevering
+569,Ferdinand,46,24,27.6,215.3,background
+570,Tracy,46,91,52.9,38.1,Versatile
+571,Rosalie,76,28,5.0,210.9,cohesive
+572,Jenine,36,92,40.7,278.9,matrices
+573,Valeria,71,5,76.4,95.9,customer loyalty
+574,Walton,17,45,6.3,166.1,hierarchy
+575,Alexandrina,9,14,88.1,119.4,Enterprise-wide
+576,Marlin,31,81,99.1,295.0,Reactive
+577,Cornie,11,8,22.0,104.8,Operative
+578,Dixie,67,21,72.1,10.7,success
+579,Garrick,60,11,94.7,180.3,methodology
+580,Chevalier,38,64,19.6,154.2,process improvement
+581,Kerry,7,58,55.2,16.8,Cloned
+582,Kippie,74,93,14.8,70.5,Multi-layered
+583,Dalston,63,80,49.9,160.9,Profit-focused
+584,Camey,95,99,39.9,45.3,solution
+585,Karel,57,4,74.8,0.9,contextually-based
+586,Karissa,1,16,5.6,169.7,Synergistic
+587,Tabbie,75,83,21.4,129.1,support
+588,Krystal,21,39,99.0,214.3,Object-based
+589,Krishnah,28,20,32.1,1.7,solution
+590,Rancell,9,51,60.6,131.5,Progressive
+591,Jannelle,26,97,21.4,128.4,Cloned
+592,Farleigh,65,94,3.8,91.3,time-frame
+593,Waylin,82,98,59.1,276.0,implementation
+594,Marvin,69,65,16.8,170.5,artificial intelligence
+595,Verney,82,97,25.4,235.2,Networked
+596,Orson,60,61,96.6,72.8,next generation
+597,Benjamen,36,23,10.7,202.5,non-volatile
+598,Dulcie,51,72,88.3,173.7,Monitored
+599,Ly,31,38,68.7,269.4,monitoring
+600,Michaela,50,16,74.3,276.6,Versatile
+601,Minny,67,62,33.4,272.5,Switchable
+602,Regan,5,5,87.7,178.2,Extended
+603,Cathie,26,55,49.8,120.3,zero administration
+604,Lucinda,5,27,55.7,63.0,coherent
+605,Antonia,79,25,99.3,38.6,system-worthy
+606,Lesley,33,8,10.2,32.7,Exclusive
+607,Blakeley,94,41,51.8,289.5,clear-thinking
+608,Wood,90,2,79.6,110.7,Automated
+609,Casie,49,75,95.7,238.6,demand-driven
+610,Lynda,82,70,28.3,143.2,Networked
+611,Bette-ann,14,76,87.7,207.6,intangible
+612,Morris,11,90,6.2,218.8,Profound
+613,Rebeca,92,78,21.9,51.3,Focused
+614,Hersch,75,33,79.8,243.7,heuristic
+615,Nicola,56,8,5.7,61.7,Grass-roots
+616,Skell,55,83,55.5,160.8,Progressive
+617,Aidan,65,20,42.0,59.5,frame
+618,Curr,77,81,64.1,189.7,Future-proofed
+619,Iago,97,19,41.6,293.9,middleware
+620,Ailsun,92,89,93.0,260.1,well-modulated
+621,Noel,91,79,6.6,10.1,Front-line
+622,Portie,69,74,71.9,12.0,complexity
+623,Basilio,100,97,69.5,137.5,function
+624,Jenine,71,14,40.6,148.3,Re-engineered
+625,Walker,5,13,8.3,160.6,Intuitive
+626,Les,32,82,83.0,147.9,regional
+627,Wynn,79,13,61.1,82.7,optimizing
+628,Des,66,13,28.7,145.9,architecture
+629,Mario,6,100,90.9,79.1,help-desk
+630,Bird,38,75,23.9,85.1,alliance
+631,Justinian,44,44,15.2,62.9,Cross-platform
+632,Garnette,73,6,21.4,147.0,toolset
+633,Ariel,68,82,51.0,29.5,Multi-tiered
+634,Zachary,14,64,12.4,26.6,Self-enabling
+635,Vassili,88,94,85.7,256.6,Business-focused
+636,Port,57,15,4.5,128.4,Cross-group
+637,Elyssa,91,7,11.6,138.6,Triple-buffered
+638,Georges,23,14,4.5,61.0,homogeneous
+639,Jeff,28,20,26.3,235.6,local
+640,Cyril,15,59,84.6,179.6,secondary
+641,Dulcea,12,17,55.8,6.0,bottom-line
+642,Benedict,21,41,47.2,298.5,dynamic
+643,Corey,24,61,96.1,266.5,clear-thinking
+644,Penelopa,36,26,40.6,131.9,attitude
+645,Lonnie,39,45,9.4,133.1,secured line
+646,Lance,18,10,46.6,265.0,Quality-focused
+647,Barn,73,70,98.1,273.7,functionalities
+648,Margaux,31,77,49.5,8.1,Organic
+649,Wallie,62,61,22.2,158.4,artificial intelligence
+650,Heinrick,55,62,73.2,37.2,installation
+651,Vale,66,17,61.1,259.0,website
+652,Margaretha,46,75,38.8,211.7,neural-net
+653,Quinton,44,91,23.1,82.0,info-mediaries
+654,Farris,10,71,68.0,204.2,zero administration
+655,Annabell,87,88,18.6,278.5,Vision-oriented
+656,Lorraine,30,87,30.7,26.2,instruction set
+657,Dredi,28,97,99.5,62.5,Business-focused
+658,Brew,62,64,14.8,215.6,composite
+659,Vikky,28,97,70.0,57.6,Monitored
+660,Ryley,52,0,46.0,29.2,Business-focused
+661,Wileen,56,3,16.1,63.6,4th generation
+662,Shanna,25,57,60.5,129.0,function
+663,Jefferey,37,25,7.3,229.4,next generation
+664,Meredith,63,96,47.4,51.6,frame
+665,Brooks,21,54,72.4,19.9,Optimized
+666,Adena,61,38,78.3,148.2,Sharable
+667,Nata,56,57,59.8,260.3,Synchronised
+668,Birgitta,47,52,64.3,0.9,Graphic Interface
+669,Thorny,77,36,4.6,203.6,definition
+670,Hanan,79,1,81.9,186.5,Distributed
+671,Pat,67,67,9.2,144.8,Business-focused
+672,Janna,8,12,46.2,276.5,artificial intelligence
+673,Lula,36,61,27.9,72.0,tangible
+674,Laurena,39,83,89.4,57.7,Multi-tiered
+675,Maryrose,35,44,84.4,104.1,6th generation
+676,Suzy,80,27,87.4,59.3,24 hour
+677,Gun,63,67,91.7,238.1,Robust
+678,Catharina,0,40,34.5,130.1,24 hour
+679,Anatollo,11,5,93.3,242.8,Cloned
+680,Stanly,35,76,89.3,137.6,asymmetric
+681,Jan,68,86,38.2,136.3,Triple-buffered
+682,Flss,90,73,78.5,13.4,Profit-focused
+683,Nicolina,14,56,62.7,27.2,encompassing
+684,Carmella,12,62,54.1,224.5,Upgradable
+685,Felicdad,51,34,82.2,120.0,Multi-tiered
+686,Caro,46,40,80.4,249.6,extranet
+687,Walther,11,16,52.3,63.8,Cross-group
+688,Benjie,11,25,89.5,25.0,intranet
+689,Skippie,61,25,20.5,200.5,asymmetric
+690,Brand,83,6,10.0,274.2,modular
+691,Perla,99,100,78.3,106.7,pricing structure
+692,Jacky,37,6,56.1,57.9,projection
+693,Ernesta,11,86,95.4,95.1,Implemented
+694,Elora,38,88,43.8,288.8,Focused
+695,Gar,12,22,27.8,46.7,systematic
+696,Far,20,51,8.8,298.8,system engine
+697,Reba,7,81,18.8,56.3,initiative
+698,Allegra,67,64,56.6,206.4,needs-based
+699,Lew,87,19,75.3,75.0,hardware
+700,Ermentrude,47,81,74.5,215.1,Ergonomic
+701,Amory,62,62,85.7,68.7,Versatile
+702,Tabina,43,27,77.3,98.1,Synergized
+703,Elvera,31,27,64.5,260.5,stable
+704,Milty,91,72,52.7,228.0,modular
+705,Kaitlyn,70,83,91.1,259.1,fresh-thinking
+706,Fidela,13,38,47.4,51.8,client-driven
+707,Arielle,56,42,63.9,0.5,secured line
+708,Parker,57,36,98.9,259.6,data-warehouse
+709,Allis,59,88,79.4,121.7,groupware
+710,Lawrence,51,71,94.4,238.8,well-modulated
+711,Brant,8,22,82.8,281.9,help-desk
+712,Alyosha,62,76,14.6,250.5,optimal
+713,Gayelord,42,68,98.7,226.5,secured line
+714,Ethyl,70,43,95.8,270.6,Visionary
+715,Peria,19,60,93.3,119.3,systemic
+716,Sybille,61,40,91.3,24.5,Multi-tiered
+717,Suzie,40,47,75.9,117.8,frame
+718,Di,25,64,74.3,193.3,attitude
+719,Alick,15,28,74.8,260.3,24/7
+720,Cullan,31,59,2.4,0.3,alliance
+721,Ferrell,53,36,31.1,100.5,optimizing
+722,Benedetto,37,27,28.3,169.5,dedicated
+723,Ellene,48,96,69.5,178.9,monitoring
+724,Englebert,58,12,19.8,252.7,Open-architected
+725,Ashlee,3,21,51.8,85.0,solution
+726,Augustina,29,73,79.5,158.3,Enhanced
+727,Olympia,89,31,5.3,274.4,zero tolerance
+728,Darsey,2,70,37.5,67.5,definition
+729,Ingemar,9,70,11.1,224.1,Mandatory
+730,Guinevere,54,36,71.4,199.3,system engine
+731,Hilde,69,46,53.3,207.6,implementation
+732,Bengt,59,10,20.1,153.3,Mandatory
+733,Bethany,40,79,99.7,170.3,needs-based
+734,Anne-marie,23,43,9.2,276.6,dynamic
+735,Angelico,74,36,19.4,296.2,implementation
+736,Thaddeus,11,8,82.4,43.8,Digitized
+737,Dot,86,93,20.4,83.8,customer loyalty
+738,Shanna,90,21,32.5,18.4,bifurcated
+739,Chaddy,98,56,67.7,74.3,intermediate
+740,Bennie,83,95,59.3,92.5,contextually-based
+741,Karon,7,90,77.3,145.2,customer loyalty
+742,Berty,32,9,64.7,263.0,object-oriented
+743,Jervis,58,60,43.6,117.5,local area network
+744,Brittani,50,87,4.3,134.6,website
+745,Tulley,24,25,59.2,238.4,Quality-focused
+746,Cirilo,42,56,37.4,86.8,maximized
+747,Derk,51,60,80.7,181.9,foreground
+748,Rutherford,59,72,11.9,227.7,analyzing
+749,Taddeusz,67,55,40.8,247.2,User-centric
+750,Laurianne,77,90,39.5,55.1,uniform
+751,Chad,100,67,94.1,81.4,info-mediaries
+752,Glenna,10,22,90.6,45.5,Integrated
+753,Charis,67,54,31.3,97.7,parallelism
+754,Layne,5,1,98.7,99.8,Pre-emptive
+755,Consolata,47,11,45.1,265.4,regional
+756,Randi,28,25,74.6,134.2,foreground
+757,Linc,7,62,81.1,74.1,artificial intelligence
+758,Massimiliano,67,72,27.4,274.1,pricing structure
+759,Cleveland,67,3,27.3,78.3,human-resource
+760,Salim,22,6,75.2,145.1,Mandatory
+761,Gage,89,13,12.9,187.2,Realigned
+762,Florette,8,69,52.1,48.7,challenge
+763,Caye,27,27,91.8,168.6,definition
+764,Dacey,96,19,79.1,251.2,Robust
+765,Klemens,94,83,25.6,128.9,algorithm
+766,Clair,90,63,70.3,253.4,multi-state
+767,Danell,78,14,63.8,155.5,Optional
+768,Kain,1,35,48.1,46.2,transitional
+769,Mallory,6,48,51.5,292.5,Multi-layered
+770,Albertine,31,56,94.2,211.4,asymmetric
+771,Purcell,21,3,51.3,286.7,web-enabled
+772,Annabel,58,89,63.2,241.0,value-added
+773,Philis,46,91,48.8,224.2,challenge
+774,Rosemonde,81,57,10.4,100.0,Down-sized
+775,Marlyn,37,17,50.5,251.5,protocol
+776,Britte,55,78,5.8,258.6,Secured
+777,Gordy,11,21,19.1,247.7,encoding
+778,Nikolaus,81,52,12.6,5.1,focus group
+779,Iseabal,88,23,68.8,126.4,Diverse
+780,Elenore,28,89,78.1,259.2,actuating
+781,Gerard,99,94,67.7,291.4,matrix
+782,Arin,98,10,14.1,272.3,Profit-focused
+783,Ania,82,47,21.7,101.3,budgetary management
+784,Jackqueline,36,38,54.3,95.4,systematic
+785,Reynolds,9,47,72.8,5.0,Fully-configurable
+786,Hugibert,89,96,9.9,228.8,Intuitive
+787,Bridgette,75,66,68.2,233.9,zero administration
+788,Grant,51,80,72.6,172.0,systemic
+789,Gregor,62,62,32.8,240.8,hub
+790,Nanny,35,40,1.9,179.6,user-facing
+791,Briano,15,62,4.2,201.0,Devolved
+792,Marc,65,91,54.0,232.7,matrices
+793,Fenelia,62,73,92.8,258.2,Expanded
+794,Tine,35,99,16.7,230.0,explicit
+795,Appolonia,15,100,48.3,7.4,contextually-based
+796,Phebe,6,78,61.5,240.9,Organic
+797,Demetrius,2,0,57.3,291.3,neutral
+798,Spence,12,47,27.6,168.6,Focused
+799,Dorri,74,84,55.2,201.8,conglomeration
+800,Ardelle,52,56,0.6,285.9,toolset
+801,Roxine,40,5,75.8,106.1,impactful
+802,Kassey,9,35,60.7,232.1,Synergistic
+803,Lyssa,83,18,46.1,290.5,concept
+804,Bernadene,25,0,71.8,207.0,4th generation
+805,Tish,90,34,79.1,284.0,Function-based
+806,Julina,69,39,90.9,186.5,internet solution
+807,Mechelle,83,30,71.8,248.0,De-engineered
+808,Idalina,58,88,29.5,41.6,Front-line
+809,Englebert,56,18,36.6,238.1,conglomeration
+810,Joshuah,72,79,69.8,170.2,toolset
+811,Kettie,41,69,36.8,84.5,definition
+812,Dael,29,64,80.4,187.1,analyzer
+813,Debbi,71,24,78.6,104.6,cohesive
+814,Stacy,73,92,42.7,125.3,Ameliorated
+815,Maddy,0,33,98.0,250.7,fault-tolerant
+816,Elsie,43,64,14.5,59.6,success
+817,Kristian,20,80,54.0,97.8,needs-based
+818,Missy,4,57,78.2,288.3,flexibility
+819,Shelby,87,33,9.6,146.3,value-added
+820,Demetris,9,37,59.1,70.3,tertiary
+821,Sheelah,90,42,7.5,37.3,intranet
+822,Breanne,24,64,4.0,155.7,Public-key
+823,Euell,28,70,52.6,117.9,exuding
+824,Carey,29,61,11.5,281.6,collaboration
+825,Elmore,64,31,25.2,4.2,workforce
+826,Baron,75,73,62.4,26.1,Grass-roots
+827,Rene,24,56,12.3,298.8,monitoring
+828,Loreen,87,82,75.8,283.3,heuristic
+829,Sybilla,63,75,61.9,170.3,Seamless
+830,Cristobal,29,30,7.9,12.3,Integrated
+831,Herold,68,71,28.2,165.0,intangible
+832,Murvyn,86,3,21.6,193.1,mobile
+833,Yorker,47,79,31.0,289.5,migration
+834,Kristin,96,10,39.6,115.4,well-modulated
+835,Den,66,81,86.8,39.5,6th generation
+836,Levi,49,33,51.0,101.2,background
+837,Reeba,94,39,74.3,95.5,strategy
+838,Binny,25,14,26.1,243.6,optimal
+839,Nikolaus,21,43,1.6,166.9,workforce
+840,Jordan,37,57,31.9,200.7,Streamlined
+841,Emmerich,74,91,82.9,279.4,website
+842,Sascha,10,38,29.4,122.6,uniform
+843,Jeannine,59,53,73.6,71.6,value-added
+844,Irena,48,26,19.2,77.9,exuding
+845,Leia,21,34,65.0,27.1,project
+846,Bobine,94,45,61.2,36.2,Innovative
+847,Vince,7,64,43.5,169.3,complexity
+848,Merci,11,55,43.1,275.6,Automated
+849,Lanny,44,8,73.1,275.3,Enterprise-wide
+850,Wolf,8,68,39.1,152.7,moratorium
+851,Pooh,93,13,58.6,214.3,Progressive
+852,Lulita,86,45,48.4,216.0,optimizing
+853,Taffy,81,10,72.9,243.8,Secured
+854,Kasey,30,66,43.4,187.5,Focused
+855,Abigael,100,48,60.6,212.7,tertiary
+856,Cyrille,56,99,36.5,149.5,complexity
+857,Valida,66,11,52.3,230.6,challenge
+858,Flora,2,53,74.6,199.6,foreground
+859,Wright,90,34,65.6,283.3,benchmark
+860,Mario,8,94,16.3,96.4,Centralized
+861,Alexa,95,29,56.2,170.6,motivating
+862,Sonja,10,80,40.9,67.7,adapter
+863,Debera,94,46,65.0,68.5,data-warehouse
+864,Berk,60,55,17.7,69.4,logistical
+865,Carmel,70,88,14.4,96.2,frame
+866,Regan,33,22,31.1,223.3,explicit
+867,Corrianne,79,0,54.4,26.1,Graphic Interface
+868,Mahmoud,51,50,89.6,75.3,3rd generation
+869,Dasie,85,8,4.7,18.2,Secured
+870,Siegfried,59,70,3.9,5.5,Mandatory
+871,Edee,23,38,37.0,273.7,analyzing
+872,Berrie,33,100,81.2,20.8,User-centric
+873,Cheston,51,87,66.9,245.3,Down-sized
+874,Barbette,28,42,55.0,137.8,directional
+875,Melessa,56,41,62.3,237.1,task-force
+876,Augustus,4,40,27.6,288.7,attitude-oriented
+877,Adelind,43,17,70.6,25.6,Switchable
+878,Benoit,46,66,22.0,66.5,intermediate
+879,Eugine,66,97,30.0,128.2,User-centric
+880,Alverta,29,61,2.2,133.6,Right-sized
+881,Langston,12,23,82.8,244.3,application
+882,Dorelia,75,37,55.7,269.7,time-frame
+883,Calv,40,37,43.0,161.6,Stand-alone
+884,Sally,1,29,76.9,273.1,user-facing
+885,Herbert,42,21,33.6,193.9,impactful
+886,Iris,93,47,45.9,27.4,flexibility
+887,Carey,48,63,12.6,73.5,Persistent
+888,Constantine,37,25,69.0,293.8,Assimilated
+889,Gualterio,59,3,78.0,179.2,scalable
+890,Lilli,32,42,85.5,282.3,orchestration
+891,Hanan,2,95,52.9,261.8,Innovative
+892,Raynard,17,53,80.4,35.6,leading edge
+893,Wadsworth,88,84,11.5,280.2,Versatile
+894,Jozef,12,43,19.4,82.6,Graphic Interface
+895,Joice,93,45,24.6,297.1,Versatile
+896,Galina,91,97,53.6,45.6,instruction set
+897,Teodora,36,14,54.5,256.9,client-driven
+898,Dasya,85,94,87.2,145.1,adapter
+899,Maude,21,69,99.1,253.1,functionalities
+900,Sherlock,47,19,47.0,262.2,challenge
+901,Welby,86,54,65.8,133.6,product
+902,Karole,33,65,4.7,11.4,Distributed
+903,Shanda,39,42,1.5,222.6,Operative
+904,Zola,71,18,17.7,71.4,clear-thinking
+905,Dorisa,36,57,42.0,258.4,help-desk
+906,Rochell,37,69,38.8,159.9,composite
+907,Arvy,18,77,40.7,161.2,Grass-roots
+908,Misty,14,42,96.7,92.8,well-modulated
+909,Wood,78,68,79.4,230.3,national
+910,Aaron,47,67,22.6,219.5,Organic
+911,Calypso,19,7,90.7,127.2,architecture
+912,Carla,1,17,20.7,238.1,task-force
+913,Obidiah,58,73,92.6,289.5,Switchable
+914,Kaspar,4,29,55.4,201.8,data-warehouse
+915,Bari,96,25,66.5,71.9,object-oriented
+916,Nial,76,92,65.9,219.8,Ameliorated
+917,Adrian,72,28,78.7,148.8,Ameliorated
+918,Yorker,8,90,50.7,178.3,Face to face
+919,Belita,25,77,93.3,206.5,pricing structure
+920,Audie,83,72,79.5,39.9,portal
+921,Dewey,87,24,5.0,42.9,Sharable
+922,Tannie,31,90,59.6,258.3,definition
+923,Bruce,23,54,53.8,92.1,function
+924,Niall,85,12,66.5,156.4,eco-centric
+925,Misti,85,97,31.6,122.5,Self-enabling
+926,Kay,5,24,1.6,293.6,infrastructure
+927,Salomi,1,21,82.6,230.1,Assimilated
+928,Alfred,18,93,52.6,184.9,Extended
+929,Cristabel,92,43,35.1,60.0,Down-sized
+930,Sande,69,85,65.2,39.9,Multi-tiered
+931,Riva,77,15,92.6,57.4,empowering
+932,Roxanne,42,9,50.5,276.6,Monitored
+933,Janice,17,9,2.8,163.9,open architecture
+934,Wyndham,30,52,79.7,44.6,Polarised
+935,Garek,63,93,73.3,18.7,Horizontal
+936,Kissee,47,32,79.2,143.2,Multi-tiered
+937,Sena,18,28,53.0,279.6,software
+938,Bathsheba,20,64,6.9,12.7,bifurcated
+939,Cobbie,32,98,8.0,245.6,toolset
+940,Kirby,75,9,35.9,210.9,infrastructure
+941,Eb,3,52,82.1,72.9,Team-oriented
+942,Alvin,68,31,52.2,46.4,policy
+943,Jennee,15,85,38.6,279.1,help-desk
+944,Karalee,47,14,74.5,193.7,Ameliorated
+945,Maurice,77,72,26.8,165.9,Face to face
+946,Jori,17,34,87.0,231.8,explicit
+947,Bradly,79,9,68.6,92.8,secondary
+948,Kelli,4,77,11.4,22.3,contingency
+949,Madalyn,41,47,1.9,224.8,needs-based
+950,Bride,9,39,40.2,170.0,parallelism
+951,Kelcie,50,40,14.6,44.6,product
+952,Ted,96,90,96.5,47.9,intangible
+953,Vivien,54,44,69.2,23.5,web-enabled
+954,Jania,81,38,27.5,62.5,object-oriented
+955,Mead,7,26,79.2,129.7,contextually-based
+956,Tally,35,62,69.7,135.0,impactful
+957,Blayne,36,67,46.2,67.6,Fundamental
+958,Penny,41,11,96.6,206.0,Centralized
+959,Christie,54,19,4.7,4.2,Ameliorated
+960,Ilene,15,69,22.2,125.9,multi-state
+961,Ailey,12,22,33.6,22.7,synergy
+962,Sioux,26,6,44.6,266.4,function
+963,Cal,47,90,11.9,284.5,framework
+964,Daveta,39,52,48.5,54.7,moderator
+965,West,83,75,47.3,143.4,customer loyalty
+966,Ted,17,57,70.7,160.0,forecast
+967,Filippo,27,20,53.6,208.3,protocol
+968,Jamal,91,60,16.6,266.1,Right-sized
+969,Huntlee,32,59,0.1,122.3,hierarchy
+970,Umeko,6,43,15.1,129.2,budgetary management
+971,Kristi,72,97,83.7,59.7,Upgradable
+972,Nerissa,82,77,68.1,258.3,transitional
+973,Stoddard,21,93,17.0,195.2,local
+974,Gracia,37,99,46.9,220.7,Devolved
+975,See,55,6,22.2,228.7,Graphical User Interface
+976,Alexandre,81,18,63.1,65.2,Switchable
+977,Kai,66,84,80.0,12.9,Reverse-engineered
+978,Konstanze,88,44,18.9,162.9,service-desk
+979,Elana,41,83,51.2,280.6,Intuitive
+980,Libby,30,39,27.8,59.5,Compatible
+981,Karly,64,69,39.3,206.3,context-sensitive
+982,Maribeth,88,19,53.2,187.6,Upgradable
+983,Jerrold,53,27,97.1,276.1,Grass-roots
+984,Shandra,60,55,99.7,220.5,data-warehouse
+985,Robenia,35,98,41.7,203.9,Balanced
+986,Hunfredo,32,84,75.9,242.3,context-sensitive
+987,Alameda,57,11,39.7,161.3,Programmable
+988,Isac,100,78,54.3,209.3,focus group
+989,Helenka,93,49,56.3,181.9,Mandatory
+990,Selinda,87,6,41.2,146.0,Organized
+991,Irwinn,69,32,5.4,280.4,definition
+992,Terence,46,36,79.0,101.8,Re-contextualized
+993,Arlinda,3,33,12.6,56.2,synergy
+994,Charles,90,82,23.8,287.1,customer loyalty
+995,Ethel,41,7,59.1,264.6,Customizable
+996,Hershel,70,30,11.3,85.3,disintermediate
+997,Georgiana,38,91,73.7,59.0,background
+998,Nell,81,49,12.1,105.6,systemic
+999,Denys,16,49,39.0,35.3,challenge
+1000,Alphonse,46,69,69.6,105.3,circuit
