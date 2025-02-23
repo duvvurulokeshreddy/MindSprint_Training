@@ -1,0 +1,35 @@
+CREATE TABLE Customer
+(
+  CustomerId INT NOT NULL,
+  Name VARCHAR(255) NOT NULL,
+  Email VARCHAR(255) NOT NULL,
+  PRIMARY KEY (CustomerId)
+);
+
+CREATE TABLE Product
+(
+  ProductId INT NOT NULL,
+  Name VARCHAR(255) NOT NULL,
+  Price INT NOT NULL,
+  PRIMARY KEY (ProductId)
+);
+
+CREATE TABLE Orders
+(
+  OrderId INT NOT NULL,
+  OrderDate DATE NOT NULL,
+  CustomerId INT NOT NULL,
+  PRIMARY KEY (OrderId),
+  FOREIGN KEY (CustomerId) REFERENCES Customer(CustomerId)
+);
+
+CREATE TABLE OrderIteams
+(
+  OrderItemsId INT NOT NULL,
+  Quantity INT NOT NULL,
+  OrderId INT NOT NULL,
+  ProductId INT NOT NULL,
+  PRIMARY KEY (OrderItemsId),
+  FOREIGN KEY (OrderId) REFERENCES Orders(OrderId),
+  FOREIGN KEY (ProductId) REFERENCES Product(ProductId)
+);
